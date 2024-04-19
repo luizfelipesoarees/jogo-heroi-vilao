@@ -16,3 +16,6 @@
 > As ações realizadas pelos personagens são registradas em um log, permitindo que os jogadores acompanhem o progresso da batalha e planejem suas próximas jogadas.
 
 > O jogo termina quando a vida de um dos personagens chega a zero, e uma mensagem indica qual personagem foi o vencedor da batalha.
+
+> ![image](https://github.com/luizfelipesoarees/jogo-heroi-vilao/assets/141787273/6b5cb702-8106-47b0-9f2f-f29212706350)
+
