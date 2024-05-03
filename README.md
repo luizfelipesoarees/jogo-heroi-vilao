@@ -1,4 +1,4 @@
-# 💻 Jogo - Herói e Vilão
+# 💻 Cadastro e Login
 
 ## 🌐 Teste o site
 > https://jogo-heroi-vilao.netlify.app/
